@@ -2,6 +2,8 @@
 ## Introduction
 The "Remote Work & Mental Health" project analyzes how different work environments (onsite, hybrid, and remote) affect employees' mental health, stress levels, work-life balance, and productivity across various industries.
 
+<img src="Work.jpg" width="400">
+
 ## Key Insights
 - **Impact of Remote Work on Mental Health**:
 Onsite Work leads to the highest levels of burnout.
